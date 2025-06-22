@@ -11,7 +11,7 @@ croniter==0.3.16
 gidgethub==2.0.0
 hiredis==0.2.0
 multidict==2.1.4
-pycares==2.1.1
+pycares==4.9.0
 python-dateutil==2.6.0
 six==1.10.0
 unidiff==0.5.2+new.files
